@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EE8926DF-FD62-50FA-6075-0C1556B37850}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Firework.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fireork.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/Firework.cs" Line="28" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
